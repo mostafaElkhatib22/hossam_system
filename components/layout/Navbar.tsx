@@ -45,7 +45,7 @@ function Navbar() {
       <div className="flex justify-between items-center gap-[3rem] md:gap-[30rem] lg:gap-[40rem] w-full">
         <Link href={"/"} className="rounded-full w-full">
           <img
-            src="/suresh-tripathi-attorneys-logo-symbol.png"
+            src="https://res.cloudinary.com/dbtbxt0fj/image/upload/v1741430221/hossam_system/y8qcbvffu7vu58aue4g8.png"
             alt="logo"
             className="w-[100px] h-[80px] rounded-full"
             loading="lazy"
